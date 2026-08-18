@@ -1,4 +1,4 @@
-## **BookCompass** 📚
+## **Book Compass** 📚
 
 BookCompass is a Python-based book recommendation system built on collaborative filtering with matrix completion. It predicts how a user would rate books they haven't read yet, using an iterative SVD (Singular Value Decomposition) reconstruction approach.
 
